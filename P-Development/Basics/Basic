@@ -1,0 +1,11 @@
+Int (Integer) = Any whole number that doesn't have a decimal place (ex. 12, -12, 34569, -28484 etc.)
+
+Float = Has a decimal point in a number (ex. 12.0, 12.99, -12.0, -12.99 etc.)
+
+String = Anything that is surrounded by "" or ''
+
+Bool (boolean) = One of two values, True or False.
+
+** = power.
+// = make float into Int.
+% = Takes the remainder of a number.

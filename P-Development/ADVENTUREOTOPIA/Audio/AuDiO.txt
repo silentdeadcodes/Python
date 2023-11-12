@@ -1,0 +1,6 @@
+Add the audio over here and i'll play music or sound if you can't play it in the editor. 
+
+To do:
+
+- Text to speech
+- music

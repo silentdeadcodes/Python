@@ -1,0 +1,14 @@
+#--------------------------------------------------------------------
+ChooseWay_Road_Scenario1 = int(input("Choose from road 1-3: "))
+while ChooseWay_Road_Scenario1 > 3:
+    print("Not valid!")
+    ChooseWay_Road_Scenario1 = int(input("Choose from road 1-3: "))
+if ChooseWay_Road_Scenario1 == 1:
+    print("You took road 1")
+#--------------------------------------------------------------------
+elif ChooseWay_Road_Scenario1 == 2:
+    print("You took road 2, ")
+#--------------------------------------------------------------------
+elif ChooseWay_Road_Scenario1 == 3:
+    print("You took road 3, ")
+#--------------------------------------------------------------------
